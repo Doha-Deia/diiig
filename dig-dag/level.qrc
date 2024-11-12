@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Level one.txt</file>
+        <file>WhatsApp Image 2024-11-11 at 23.46.08_3bc0519f.jpg</file>
+        <file>WhatsApp Image 2024-11-11 at 23.46.08_b799dc2c.jpg</file>
+        <file>WhatsApp Image 2024-11-11 at 23.46.08_d84a96bc.jpg</file>
+    </qresource>
+</RCC>
